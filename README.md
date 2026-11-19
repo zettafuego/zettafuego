@@ -1,8 +1,8 @@
-### Ingeniero de Minas. Software para la operación.
+### Ingeniero. Software con creatividad.
 
 Dejo las cosas mejor de como las encontré.
 
-Coordinador de Innovación y Desarrollo Tecnológico en [Waffles Tech](https://wafflestech.art). Maestría en Inteligencia Artificial en curso.
+Coordinador de Innovación y Desarrollo Tecnológico en [Waffles Tech](https://wafflestech.art). Maestría en Inteligencia Artificial .
 
 Construyo herramientas que se usan en faena y en el escritorio: cálculos, reportes, inducción, juegos de capacitación y orientación para la formalización minera.
 
